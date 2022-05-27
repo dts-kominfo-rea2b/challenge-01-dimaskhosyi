@@ -22,7 +22,7 @@ const firstUser = {
     {
         name: 'SMA 03',
         city: 'Tangerang'
-    }]
+    }],
     favoriteRestaurant: ['Bento', 'Pancake', 'Eggy', 'Tempura', 'Padang', 'Tteok', 'Sushi']
 };
 
@@ -52,7 +52,7 @@ const secondUser = {
     {
         name: 'Universitas Maju',
         city: 'Tangerang'
-    }]
+    }],
     favoriteRestaurant: ['Bento', 'Geprek', 'Pancake', 'Eggy', 'Tempura', 'Padang', 'Katsu', 'Sushi']
 };
 
